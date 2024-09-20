@@ -1,4 +1,4 @@
-package nl.hu.bp;
+package nl.hu.dp;
 
 import java.sql.*;
 

@@ -6,4 +6,11 @@
   <version>1.0-SNAPSHOT</version>
   <name>Archetype - DataAndPercistency</name>
   <url>http://maven.apache.org</url>
+  <dependencies>
+    <dependency>
+      <groupId>org.postgresql</groupId>
+      <artifactId>postgresql</artifactId>
+      <version>42.6.0</version> <!-- You can adjust the version as needed -->
+    </dependency>
+  </dependencies>
 </project>
